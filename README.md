@@ -1,5 +1,5 @@
-# My project overview
-Include python and R programming language.
+# Project Overview
+Includes Python and R programming languages.
 
 
 
