@@ -17,8 +17,9 @@ Includes Python and R programming languages.
  
 - [Final project: Analyzing the pitcher performance through years](https://github.com/ollill0823/Project-overview/blob/main/README.md)
   - This study delves into baseball analytics using data mining techniques. Key steps include data preprocessing, feature enhancement, and deriving predictive features. Two prediction systems, "score difference" and "reward," are explored. Regression models, including Linear Regression and Neural Network, are employed. The "reward" system outperforms, exhibiting more consistent results. Challenges include outliers, team dynamics, and pitcher fatigue. Further improvements could involve additional parameters and considering team contributions for a more holistic prediction. Overall, the study provides valuable insights into baseball analytics, emphasizing the complex interplay of factors affecting game outcomes. ([Code here](https://github.com/ollill0823/102.UIUC_MS_CS-412-Introduction-to-Data-Mining/blob/main/Report/Final_proeject_1205.ipynb))
-
-
+ 
+- [Final project: Analyzing Flight Delays and Cancellations in the USA](https://github.com/ollill0823/103.UIUC_MS_CS-442-Database-Systems/blob/main/README.md)
+ - Executing the SQL table creation on **Google Cloud Platform (GCP)** for the Flight Delays and Cancellation dataset in 2015 USA. Prior to the SQL implementation, preparing the **ER diagram** and **URL version Diagram** for dataset diversification. Integrating **JavaScript** coding into **Neo4j** to generate an interactive question-and-answer **HTML page**. On GCP, 
 
 
 
