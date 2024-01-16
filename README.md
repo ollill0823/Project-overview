@@ -1,7 +1,6 @@
 # Project Overview
 Includes Python and R programming languages.
 
-<font color=#800000>酒紅色</font>
 
 ## Project:
 - [Analysis of District Rearrangement to Address Gerrymandering](https://github.com/ollill0823/101.UIUC_MS_IE-532-Analysis-of-Network-Data/tree/main/005.Final_project) **Key word: Python, Gurobi Optimizer**
