@@ -2,7 +2,7 @@
 Includes Python and R programming languages.
 
 
-
+<span style="color:red;">這是紅色文字</span>
 
 ## Project:
 - [Analysis of District Rearrangement to Address Gerrymandering](https://github.com/ollill0823/101.UIUC_MS_IE-532-Analysis-of-Network-Data/tree/main/005.Final_project) **Key word: Python, Gurobi Optimizer**
