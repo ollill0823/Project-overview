@@ -1,5 +1,5 @@
 # Project Overview
-Includes Python and R programming languages.
+Includes SQL, Python, and R programming languages.
 
 
 ## Project:
